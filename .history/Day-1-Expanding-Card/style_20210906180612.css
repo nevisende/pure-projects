@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    margin: 0 auto;
+    width: 80vw;
+    height: 80vh;
+}
+.image {
+    background-color: aqua;
+    width: fit-content;
+    height: fit-content;
+}
